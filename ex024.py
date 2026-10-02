@@ -1,0 +1,7 @@
+numero = input ('Digite um numero: ')
+print (f'unidade: {numero[-1]}')
+print (f'dezena: {numero[-2]}')
+print (f'centena: {numero[-3]}')
+print (f'milhar: {numero[-4]}')
+
+
