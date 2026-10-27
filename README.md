@@ -20,19 +20,20 @@ Estou estudando programação há 3 meses, e uso este repositório para registra
 **Mundo 3: Estruturas compostas**
 - Tuplas, listas e dicionários
 - Funções
+- Tratamento de Erros e Exceções
 
 ---
 
-## Como executar
+## 🛠️ Como Executar os Scripts
 
-Com o Python 3 instalado, rode no terminal:
+Certifique-se de ter o Python 3 instalado em sua máquina. Para rodar qualquer exercício:
 
 ```bash
-git clone https://github.com/Fournier7/curso-python-guanabara.git
+# Clone o repositório
+git clone [https://github.com/Fournier7/curso-python-guanabara.git](https://github.com/Fournier7/curso-python-guanabara.git)
+
+# Acesse a pasta do projeto
 cd curso-python-guanabara
-python ex000.py
-```
 
----
-
+# Execute o script desejado
 
